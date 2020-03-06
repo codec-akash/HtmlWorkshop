@@ -1,2 +1,3 @@
 # HtmlWorkshop
-This repo is for html work shop in my college 
+This repo is for html workshop in my college 
+We learn basic of HTML5 and CSS
